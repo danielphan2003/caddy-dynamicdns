@@ -1,4 +1,4 @@
-module github.com/mholt/caddy-dynamicdns
+module github.com/danielphan2003/caddy-dynamicdns
 
 go 1.16
 
